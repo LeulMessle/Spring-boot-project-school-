@@ -20,13 +20,13 @@ Lombok – Less boilerplate Java coderd`
 
 ⚙️ Getting Started
 1. Clone the repository
-git clone <repository-url>
+git clone 
 
 2. Navigate to the project
 
   cd SpringProject
 
-3. Run the app
+3. Run the app ( You should also run the app from IDE before opening this link)
 
 http://localhost:9090
 
