@@ -19,14 +19,16 @@ H2 Database – In-memory DB for development
 Lombok – Less boilerplate Java coderd`
 
 ⚙️ Getting Started
-1. Clone the repository
+1. Clone the repository or download
 git clone 
 
 2. Navigate to the project
 
-  cd SpringProject
+3. Open using an IDE
 
-3. Run the app ( You should also run the app from IDE before opening this link)
+3. Run the spring project appication
+
+4. Go to the hostsite
 
 http://localhost:9090
 
